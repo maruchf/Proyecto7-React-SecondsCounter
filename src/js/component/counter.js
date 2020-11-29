@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import newLocal from "./component/counter";
+
 
 //Creación del componente contador con set interval
 
