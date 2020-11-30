@@ -1,7 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-
 //Creación del componente contador con set interval
 
 let counter = 0;

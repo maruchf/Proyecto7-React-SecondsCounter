@@ -1,16 +1,15 @@
 import React from "react";
 import PropTypes from "prop-types";
-import newLocal from "./component/counter";
 
 //Defino propiedades de función simpleCounter de la app
 
 SimpleCounter.propTypes = {
-	digitSix: propTypes.number,
-	digitFive: propTypes.number,
-	digitFour: propTypes.number,
-	digitThree: propTypes.number,
-	digitTwo: propTypes.number,
-	digitOne: propTypes.number
+	digitSix: PropTypes.number,
+	digitFive: PropTypes.number,
+	digitFour: PropTypes.number,
+	digitThree: PropTypes.number,
+	digitTwo: PropTypes.number,
+	digitOne: PropTypes.number
 };
 
 //creación de función simple counter con HTML y valores
