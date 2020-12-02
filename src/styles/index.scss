@@ -1,6 +1,15 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
-.card div{
-font-size: 20px;
-line-height: 20px;
+.card-group{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    font-size: 25px;
+    line-height: 20px;
+}
+
+.fa-clock {
+    margin-top: 6px;
+    font-size: 25px;
 }
